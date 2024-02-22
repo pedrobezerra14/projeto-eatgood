@@ -1,6 +1,6 @@
 <img src="./src/assets/prints/topping.png"/>
 
-# PROJETO RESTAURANTE EATGOOD
+# Projeto Restaurante EatGood
 
 ## 📝Finalidade
 - Site desenvolvido para simulação de um restaurante com cardápio online
